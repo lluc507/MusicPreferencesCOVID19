@@ -1,2 +1,2 @@
 # MusicPreferencesCOVID19
-Final project for DSCI 510
+Final project for Python class
